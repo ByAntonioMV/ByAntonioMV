@@ -11,3 +11,4 @@ Soy estudiante de informática con una gran pasión por la tecnología y la cien
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ByAntonioMV&theme=rust-ferris-light&locale=es&short_numbers=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
