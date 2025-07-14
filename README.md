@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/q3h1s9I.png" alt="Banner" width="100%">
+  <img src="https://mx.pinterest.com/pin/13088655162874627/" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">👋 Hola, soy Antonio Alain 🇲🇽</h1>
+<h1>👋 Hola, soy Antonio Alain 🇲🇽</h1>
