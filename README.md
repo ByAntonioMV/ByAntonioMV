@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ByAntonioMV/ByAntonioMV/main/Banner.jpeg" alt="Banner" style="width: 50%; max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/ByAntonioMV/ByAntonioMV/main/Banner.jpeg" alt="Banner" style="width: 100%; max-width: 100%;">
 </p>
 
 <h1>Hola, soy Antonio Alain 🇲🇽</h1>
