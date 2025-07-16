@@ -27,7 +27,7 @@
   Hobbies
 </h3>
 
-<ul align="center" style="list-style: none; padding: 0; font-size: 16px; font-family: Georgia, serif; color: #555;">
+<ul style="list-style: none; padding: 0; font-size: 16px; font-family: Georgia, serif; color: #555;">
   <li>💻 Programar</li>
   <li>📸 Fotografía</li>
 </ul>
