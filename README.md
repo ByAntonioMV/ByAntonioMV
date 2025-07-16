@@ -35,10 +35,10 @@
 <table align="center">
   <thead>
     <tr>
-      <th align="center"><h3>🖥️ Lenguajes</h3></th>
-      <th align="center"><h3>💽 Sistemas Operativos</h3></th>
-      <th align="center"><h3>🌐 Servidores</h3></th>
-      <th align="center"><h3>🛠️ Herramientas / Frameworks</h3></th>
+      <th align="center"><h3>Lenguajes</h3></th>
+      <th align="center"><h3>Sistemas Operativos</h3></th>
+      <th align="center"><h3>Servidores</h3></th>
+      <th align="center"><h3>Herramientas / Frameworks</h3></th>
     </tr>
   </thead>
   <tbody>
