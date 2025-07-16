@@ -11,19 +11,19 @@
   <span style="font-size: 1em; font-weight: bold;">— Linus Torvalds</span>
 </p>
 
-<h1 align="center" style="font-size: 28px; font-weight: bold; font-family: Arial, sans-serif; color: #2c3e50;">
+<h1 style="font-size: 28px; font-weight: bold; font-family: Arial, sans-serif; color: #2c3e50;">
   Hola, soy Antonio Alain 🇲🇽
 </h1>
 
-<h2 align="center" style="font-size: 20px; font-family: Arial, sans-serif; color: #34495e;">
+<h2 style="font-size: 20px; font-family: Arial, sans-serif; color: #34495e;">
   Ciencias Computacionales
 </h2>
 
-<p align="center" style="font-size: 16px; max-width: 700px; margin: auto; font-family: Georgia, serif; color: #444;">
+<p style="font-size: 16px; max-width: 700px; margin: auto; font-family: Georgia, serif; color: #444;">
   Soy estudiante de informática apasionado por la ciencia y la programación. Me interesa comprender la informática desde una perspectiva científica, más allá de los frameworks y las herramientas convencionales. Creo firmemente que la informática tiene el poder de transformar el mundo.
 </p>
 
-<h3 align="center" style="font-size: 18px; font-family: Arial, sans-serif; color: #2d3436; margin-top: 30px;">
+<h3 style="font-size: 18px; font-family: Arial, sans-serif; color: #2d3436; margin-top: 30px;">
   Hobbies
 </h3>
 
