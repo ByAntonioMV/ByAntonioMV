@@ -12,7 +12,7 @@
 </p>
 
 <h1 style="font-size: 28px; font-weight: bold; font-family: Arial, sans-serif; color: #2c3e50;">
-  Hola, soy Antonio Alain||Oaxaca de Juárez
+  Hola, soy Antonio Alain|Oaxaca de Juárez
 </h1>
 
 <h2 style="font-size: 20px; font-family: Arial, sans-serif; color: #34495e;">
