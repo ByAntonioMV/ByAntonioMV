@@ -6,9 +6,11 @@
   </tr>
 </table>
 
-<h1 align="center" style="font-size: 18px; font-weight: bold; font-family: Arial, sans-serif;">Hola, soy Antonio Alain 🇲🇽</h1>
-
 <p align="center" style="font-size: 16px; font-style: italic; font-family: Georgia, serif; color: #444;">
   "Hablar es barato. Enséñame el código."<br>
   <span style="font-size: 1em; font-weight: bold;">— Linus Torvalds</span>
 </p>
+
+<h1>style="font-size: 18px; font-weight: bold; font-family: Arial, sans-serif;">Hola, soy Antonio Alain 🇲🇽</h1>
+
+
