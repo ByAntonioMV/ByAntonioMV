@@ -33,3 +33,8 @@
 </ul>
 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ByAntonioMV&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ByAntonioMV&locale=es&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ByAntonioMV&radius=16&theme=redical&area=true&order=5&custom_title=Antonio%20Alain%20%7C%20Contribiciones" height="300" alt="activity-graph graph"  />
+</div>
