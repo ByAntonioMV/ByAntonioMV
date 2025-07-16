@@ -11,6 +11,6 @@
   <span style="font-size: 1em; font-weight: bold;">— Linus Torvalds</span>
 </p>
 
-<h1>style="font-size: 18px; font-weight: bold; font-family: Arial, sans-serif;">Hola, soy Antonio Alain 🇲🇽</h1>
+<h1 style="font-size: 18px; font-weight: bold; font-family: Arial, sans-serif;">Hola, soy Antonio Alain 🇲🇽</h1>
 
 
